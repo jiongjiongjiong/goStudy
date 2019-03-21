@@ -14,8 +14,7 @@
 *.out
 
 
-github.com/golangci/
-github.com/mgechev/
+github.com/
+golang.org/
 sourcegraph.com/
 .idea
-../.idea
