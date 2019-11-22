@@ -6,18 +6,16 @@
 *.dll
 *.so
 *.dylib
-
+pkg/
+bin/
+src/github.com/
+src/golang.org/
+sourcegraph.com/
+.idea
+src/.DS_Store
 # Test binary, build with `go test -c`
 *.test
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
-
-src/github.com/
-src/golang.org/
-sourcegraph.com/
-.idea
-src/.DS_Store
-pkg/
-bin/
