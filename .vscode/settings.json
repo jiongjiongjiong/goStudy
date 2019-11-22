@@ -1,3 +1,6 @@
 {
-    "go.testFlags": ["-v"]
+    "go.testFlags": [
+        "-v"
+    ],
+    "git.ignoreLimitWarning": true
 }

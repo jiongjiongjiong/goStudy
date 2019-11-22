@@ -1,0 +1,7 @@
+{
+    "go.testFlags": [
+        "-v"
+    ],
+    "editor.fontSize": 14,
+    "debug.console.fontSize": 14
+}

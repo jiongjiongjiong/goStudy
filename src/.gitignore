@@ -18,3 +18,6 @@ github.com/
 golang.org/
 sourcegraph.com/
 .idea
+src/.DS_Store
+pkg/
+bin/
