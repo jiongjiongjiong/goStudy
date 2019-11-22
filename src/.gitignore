@@ -14,8 +14,8 @@
 *.out
 
 
-github.com/
-golang.org/
+src/github.com/
+src/golang.org/
 sourcegraph.com/
 .idea
 src/.DS_Store
